@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BibliotecAPP2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Christopher Espinoza</string>
+    <string name="nav_header_subtitle">c.espinoza.ordenes@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Camara</string>
+    <string name="menu_gallery">Libros</string>
+    <string name="menu_slideshow">Gráfico</string>
+</resources>
